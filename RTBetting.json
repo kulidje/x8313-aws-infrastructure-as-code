@@ -9,7 +9,7 @@
                 },
                 "position": {
                     "x": 260,
-                    "y": 420
+                    "y": 360
                 },
                 "z": 1,
                 "embeds": [
@@ -24,8 +24,8 @@
                     "height": 60
                 },
                 "position": {
-                    "x": 429,
-                    "y": 719
+                    "x": 410,
+                    "y": 660
                 },
                 "z": 3,
                 "parent": "720de671-0940-4aff-ac9d-fcf2ba568028",
@@ -34,6 +34,10 @@
                     "c0af4cf8-0bcf-4ae8-80d6-260970235924"
                 ],
                 "iscontainedinside": [
+                    "720de671-0940-4aff-ac9d-fcf2ba568028",
+                    "720de671-0940-4aff-ac9d-fcf2ba568028",
+                    "720de671-0940-4aff-ac9d-fcf2ba568028",
+                    "720de671-0940-4aff-ac9d-fcf2ba568028",
                     "720de671-0940-4aff-ac9d-fcf2ba568028",
                     "720de671-0940-4aff-ac9d-fcf2ba568028",
                     "720de671-0940-4aff-ac9d-fcf2ba568028",
@@ -54,7 +58,7 @@
                 },
                 "position": {
                     "x": 310,
-                    "y": 720
+                    "y": 660
                 },
                 "z": 3,
                 "parent": "720de671-0940-4aff-ac9d-fcf2ba568028",
@@ -63,6 +67,10 @@
                     "74716bfb-54f1-4a82-961f-da81070de283"
                 ],
                 "iscontainedinside": [
+                    "720de671-0940-4aff-ac9d-fcf2ba568028",
+                    "720de671-0940-4aff-ac9d-fcf2ba568028",
+                    "720de671-0940-4aff-ac9d-fcf2ba568028",
+                    "720de671-0940-4aff-ac9d-fcf2ba568028",
                     "720de671-0940-4aff-ac9d-fcf2ba568028",
                     "720de671-0940-4aff-ac9d-fcf2ba568028",
                     "720de671-0940-4aff-ac9d-fcf2ba568028",
@@ -79,8 +87,8 @@
                     "height": 60
                 },
                 "position": {
-                    "x": 370,
-                    "y": 460
+                    "x": 360,
+                    "y": 390
                 },
                 "z": 2,
                 "parent": "56b56db1-d440-427e-a938-0aad913098e5",
@@ -96,8 +104,8 @@
                     "height": 60
                 },
                 "position": {
-                    "x": 370,
-                    "y": 880
+                    "x": 360,
+                    "y": 810
                 },
                 "z": 1,
                 "embeds": [],
@@ -112,8 +120,8 @@
                     "height": 60
                 },
                 "position": {
-                    "x": 430,
-                    "y": 590
+                    "x": 410,
+                    "y": 530
                 },
                 "z": 3,
                 "parent": "720de671-0940-4aff-ac9d-fcf2ba568028",
@@ -142,7 +150,7 @@
                 },
                 "position": {
                     "x": 310,
-                    "y": 590
+                    "y": 530
                 },
                 "z": 3,
                 "parent": "720de671-0940-4aff-ac9d-fcf2ba568028",
@@ -165,75 +173,6 @@
                     "56b56db1-d440-427e-a938-0aad913098e5"
                 ]
             },
-            "aa0fe60d-ba40-441c-9041-6fccbb6eca56": {
-                "source": {
-                    "id": "086f1a74-01d8-4651-8185-d339bbc8eec7"
-                },
-                "target": {
-                    "id": "74716bfb-54f1-4a82-961f-da81070de283"
-                },
-                "z": 2
-            },
-            "2ddc75b4-0172-4f16-ae1f-4c07dbec693a": {
-                "source": {
-                    "id": "b575da53-bc6c-47f8-86e5-5ff33140e77c"
-                },
-                "target": {
-                    "id": "c0af4cf8-0bcf-4ae8-80d6-260970235924"
-                },
-                "z": 3
-            },
-            "0e333525-1217-4307-97bc-30110b361724": {
-                "source": {
-                    "id": "c0af4cf8-0bcf-4ae8-80d6-260970235924",
-                    "selector": "g:nth-child(1) g:nth-child(4) g:nth-child(5) circle:nth-child(1)     ",
-                    "port": "AWS::ContainedInsideLink-AWS::EC2::VPC-VpcId"
-                },
-                "target": {
-                    "id": "56b56db1-d440-427e-a938-0aad913098e5"
-                },
-                "z": 6
-            },
-            "6c9b2ef9-309d-4ea0-ac7e-7333afb4110b": {
-                "source": {
-                    "id": "c0af4cf8-0bcf-4ae8-80d6-260970235924",
-                    "selector": "g:nth-child(1) g:nth-child(4) g:nth-child(5) circle:nth-child(1)     ",
-                    "port": "AWS::ContainedInsideLink-AWS::EC2::VPC-VpcId"
-                },
-                "target": {
-                    "id": "56b56db1-d440-427e-a938-0aad913098e5"
-                },
-                "z": 6
-            },
-            "d65fdbd0-5acb-4e96-b2bb-694c78a7892b": {
-                "source": {
-                    "id": "c0af4cf8-0bcf-4ae8-80d6-260970235924",
-                    "selector": "g:nth-child(1) g:nth-child(4) g:nth-child(5) circle:nth-child(1)     ",
-                    "port": "AWS::ContainedInsideLink-AWS::EC2::VPC-VpcId"
-                },
-                "target": {
-                    "id": "56b56db1-d440-427e-a938-0aad913098e5"
-                },
-                "z": 6
-            },
-            "92b48bd5-459f-4007-8241-5cf35fc91c34": {
-                "source": {
-                    "id": "b575da53-bc6c-47f8-86e5-5ff33140e77c"
-                },
-                "target": {
-                    "id": "4834fd6e-ecfb-427d-8cd1-d960d6ee8b42"
-                },
-                "z": 5
-            },
-            "9bee0307-be1f-4e4c-b635-af049b3f786b": {
-                "source": {
-                    "id": "112b087e-6a2a-481a-96a6-337d1d82afa5"
-                },
-                "target": {
-                    "id": "40fdab60-8b3c-4195-b7f6-4c7b867abadc"
-                },
-                "z": 7
-            },
             "4c6bbf9e-ad12-4654-8405-dd45fe24f096": {
                 "size": {
                     "width": 60,
@@ -241,7 +180,7 @@
                 },
                 "position": {
                     "x": 750,
-                    "y": 720
+                    "y": 660
                 },
                 "z": 0,
                 "embeds": []
@@ -252,8 +191,8 @@
                     "height": 110
                 },
                 "position": {
-                    "x": 600,
-                    "y": 680
+                    "x": 610,
+                    "y": 630
                 },
                 "z": 2,
                 "parent": "56b56db1-d440-427e-a938-0aad913098e5",
@@ -261,6 +200,10 @@
                     "f6cca011-35f5-41e9-926b-fc7802624724"
                 ],
                 "iscontainedinside": [
+                    "56b56db1-d440-427e-a938-0aad913098e5",
+                    "56b56db1-d440-427e-a938-0aad913098e5",
+                    "56b56db1-d440-427e-a938-0aad913098e5",
+                    "56b56db1-d440-427e-a938-0aad913098e5",
                     "56b56db1-d440-427e-a938-0aad913098e5",
                     "56b56db1-d440-427e-a938-0aad913098e5",
                     "56b56db1-d440-427e-a938-0aad913098e5",
@@ -279,16 +222,17 @@
                     "height": 60
                 },
                 "position": {
-                    "x": 620,
-                    "y": 720
+                    "x": 630,
+                    "y": 660
                 },
                 "z": 3,
                 "parent": "e4319681-b2ff-48c2-996b-0864e18195ea",
                 "embeds": [],
-                "isassociatedwith": [
-                    "4c6bbf9e-ad12-4654-8405-dd45fe24f096"
-                ],
                 "iscontainedinside": [
+                    "e4319681-b2ff-48c2-996b-0864e18195ea",
+                    "e4319681-b2ff-48c2-996b-0864e18195ea",
+                    "e4319681-b2ff-48c2-996b-0864e18195ea",
+                    "e4319681-b2ff-48c2-996b-0864e18195ea",
                     "e4319681-b2ff-48c2-996b-0864e18195ea",
                     "e4319681-b2ff-48c2-996b-0864e18195ea",
                     "e4319681-b2ff-48c2-996b-0864e18195ea",
@@ -315,41 +259,14 @@
                 },
                 "z": 1
             },
-            "a03a2eaa-cbb8-459b-a098-974236c111a1": {
-                "source": {
-                    "id": "f6cca011-35f5-41e9-926b-fc7802624724"
-                },
-                "target": {
-                    "id": "4c6bbf9e-ad12-4654-8405-dd45fe24f096"
-                },
-                "z": 5
-            },
-            "445ba3d4-87c8-4e1a-91ea-d99ca985441d": {
-                "source": {
-                    "id": "f6cca011-35f5-41e9-926b-fc7802624724"
-                },
-                "target": {
-                    "id": "4c6bbf9e-ad12-4654-8405-dd45fe24f096"
-                },
-                "z": 4
-            },
-            "87b7a074-50a7-4590-b6fe-7be602528e56": {
-                "source": {
-                    "id": "b575da53-bc6c-47f8-86e5-5ff33140e77c"
-                },
-                "target": {
-                    "id": "f6cca011-35f5-41e9-926b-fc7802624724"
-                },
-                "z": 5
-            },
             "720de671-0940-4aff-ac9d-fcf2ba568028": {
                 "size": {
-                    "width": 240,
+                    "width": 290,
                     "height": 270
                 },
                 "position": {
                     "x": 280,
-                    "y": 550
+                    "y": 490
                 },
                 "z": 2,
                 "parent": "56b56db1-d440-427e-a938-0aad913098e5",
@@ -357,9 +274,14 @@
                     "c0af4cf8-0bcf-4ae8-80d6-260970235924",
                     "74716bfb-54f1-4a82-961f-da81070de283",
                     "086f1a74-01d8-4651-8185-d339bbc8eec7",
-                    "b575da53-bc6c-47f8-86e5-5ff33140e77c"
+                    "b575da53-bc6c-47f8-86e5-5ff33140e77c",
+                    "4f315d43-a580-4f39-b71b-17023d835537"
                 ],
                 "iscontainedinside": [
+                    "56b56db1-d440-427e-a938-0aad913098e5",
+                    "56b56db1-d440-427e-a938-0aad913098e5",
+                    "56b56db1-d440-427e-a938-0aad913098e5",
+                    "56b56db1-d440-427e-a938-0aad913098e5",
                     "56b56db1-d440-427e-a938-0aad913098e5",
                     "56b56db1-d440-427e-a938-0aad913098e5",
                     "56b56db1-d440-427e-a938-0aad913098e5",
@@ -370,50 +292,54 @@
                     "56b56db1-d440-427e-a938-0aad913098e5"
                 ]
             },
-            "7f287f50-1c25-4a7d-9256-2d1bce275790": {
-                "source": {
-                    "id": "e4319681-b2ff-48c2-996b-0864e18195ea"
+            "3e5a7ba1-05a3-4e09-a43c-6f0375985bf9": {
+                "size": {
+                    "width": 60,
+                    "height": 60
                 },
-                "target": {
-                    "id": "720de671-0940-4aff-ac9d-fcf2ba568028"
+                "position": {
+                    "x": 160,
+                    "y": 530
                 },
-                "z": 6
+                "z": 0,
+                "embeds": [],
+                "dependson": [
+                    "74716bfb-54f1-4a82-961f-da81070de283"
+                ]
             },
-            "aa250227-b0ae-4405-9296-ef156980d950": {
+            "7153aca6-c765-4981-b361-8e88629323d5": {
                 "source": {
-                    "id": "112b087e-6a2a-481a-96a6-337d1d82afa5"
-                },
-                "target": {
-                    "id": "b575da53-bc6c-47f8-86e5-5ff33140e77c"
-                },
-                "z": 7
-            },
-            "97f6dfda-072b-45ee-92d6-b37e95ebc587": {
-                "source": {
-                    "id": "112b087e-6a2a-481a-96a6-337d1d82afa5"
-                },
-                "target": {
-                    "id": "086f1a74-01d8-4651-8185-d339bbc8eec7"
-                },
-                "z": 8
-            },
-            "39065269-4ebf-43df-b119-c568c9aa7dee": {
-                "source": {
-                    "id": "7d306aac-b0af-4244-b3b7-6fc66c2738bd"
-                },
-                "target": {
-                    "id": "c0af4cf8-0bcf-4ae8-80d6-260970235924"
-                },
-                "z": 4
-            },
-            "72742c43-6e65-4c1f-9390-1f74b9bcb3d8": {
-                "source": {
-                    "id": "7d306aac-b0af-4244-b3b7-6fc66c2738bd"
+                    "id": "3e5a7ba1-05a3-4e09-a43c-6f0375985bf9"
                 },
                 "target": {
                     "id": "74716bfb-54f1-4a82-961f-da81070de283"
                 },
-                "z": 5
+                "z": 4
+            },
+            "4f315d43-a580-4f39-b71b-17023d835537": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 490,
+                    "y": 570
+                },
+                "z": 3,
+                "parent": "720de671-0940-4aff-ac9d-fcf2ba568028",
+                "embeds": [],
+                "dependson": [
+                    "b575da53-bc6c-47f8-86e5-5ff33140e77c"
+                ]
+            },
+            "473372de-4469-4b30-b376-a282cef26a95": {
+                "source": {
+                    "id": "4f315d43-a580-4f39-b71b-17023d835537"
+                },
+                "target": {
+                    "id": "b575da53-bc6c-47f8-86e5-5ff33140e77c"
+                },
+                "z": 4
             }
         }
     },
@@ -450,25 +376,6 @@
             },
             "DependsOn": [
                 "PublicSubnet"
-            ]
-        },
-        "Route": {
-            "Type": "AWS::EC2::Route",
-            "Properties": {
-                "RouteTableId": {
-                    "Ref": "RouteTable"
-                },
-                "GatewayId": {
-                    "Ref": "PublicInternetGateway"
-                }
-            },
-            "Metadata": {
-                "AWS::CloudFormation::Designer": {
-                    "id": "f6cca011-35f5-41e9-926b-fc7802624724"
-                }
-            },
-            "DependsOn": [
-                "PublicInternetGateway"
             ]
         },
         "EC2VPCG3QBJX": {
@@ -576,6 +483,46 @@
                         "SubnetId": {
                             "Ref": "PublicSubnet"
                         }
+                    },
+                    {
+                        "SubnetId": {
+                            "Ref": "PublicSubnet"
+                        }
+                    },
+                    {
+                        "SubnetId": {
+                            "Ref": "PublicSubnet"
+                        }
+                    },
+                    {
+                        "SubnetId": {
+                            "Ref": "PublicSubnet"
+                        }
+                    },
+                    {
+                        "SubnetId": {
+                            "Ref": "PublicSubnet"
+                        }
+                    },
+                    {
+                        "SubnetId": {
+                            "Ref": "PublicSubnet"
+                        }
+                    },
+                    {
+                        "SubnetId": {
+                            "Ref": "PublicSubnet"
+                        }
+                    },
+                    {
+                        "SubnetId": {
+                            "Ref": "PublicSubnet"
+                        }
+                    },
+                    {
+                        "SubnetId": {
+                            "Ref": "PublicSubnet"
+                        }
                     }
                 ]
             },
@@ -585,7 +532,7 @@
                 }
             },
             "DependsOn": [
-                "Route"
+                "BrokerVPN"
             ]
         },
         "TriggerQueue": {
@@ -616,6 +563,49 @@
             "DependsOn": [
                 "Consumer",
                 "Producer"
+            ]
+        },
+        "HorseData": {
+            "Type": "AWS::S3::Bucket",
+            "Properties": {},
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "3e5a7ba1-05a3-4e09-a43c-6f0375985bf9"
+                }
+            },
+            "DependsOn": [
+                "ProducerSG"
+            ]
+        },
+        "BetLogs": {
+            "Type": "AWS::RDS::DBInstance",
+            "Properties": {},
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "4f315d43-a580-4f39-b71b-17023d835537"
+                }
+            },
+            "DependsOn": [
+                "Consumer"
+            ]
+        },
+        "BrokerVPN": {
+            "Type": "AWS::EC2::Route",
+            "Properties": {
+                "RouteTableId": {
+                    "Ref": "RouteTable"
+                },
+                "GatewayId": {
+                    "Ref": "PublicInternetGateway"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "f6cca011-35f5-41e9-926b-fc7802624724"
+                }
+            },
+            "DependsOn": [
+                "PublicInternetGateway"
             ]
         }
     }
