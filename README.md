@@ -8,7 +8,7 @@ The code used to represent the AWS stack is built on AWS CloudFormation - AWS's 
 **AWS CloudFormation Designer Diagram**
 ![rt-betting-diagram](https://github.com/kulidje/x8313-aws-infrastructure-as-code/blob/master/pics/RTBetting-designer.png)
 
-**Python Integration**
+**Python Integration (pseudo code)**
 ![rt-betting](https://github.com/kulidje/x8313-aws-infrastructure-as-code/blob/master/pics/rt-betting.png)
 
 How the system works:
